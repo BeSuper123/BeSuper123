@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Projects I've Created or Been a Part of:
 
 ### Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=burntkayatoast&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[](https://img.shields.io/badge/https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DBeSuper123%26theme%3Ddark%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact)
 
 <h3 align="center">Check out my GitHub Profile</h3>
 
