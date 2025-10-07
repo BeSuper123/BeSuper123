@@ -17,8 +17,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-blue?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/Bash_Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
-
 ### Projects I've Created or Been a Part of:
 - Who Wants to Be a Millionaire - https://wwtbam.onrender.com  
 - Cafe Game using python - https://github.com/koriokeshola/OOP_Project/tree/main/Concerto_Project
